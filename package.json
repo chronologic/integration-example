@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-font-awesome-webpack-starter",
+  "name": "eac-integration-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -57,10 +57,13 @@
   },
   "dependencies": {
     "bootstrap": "^4.1.1",
+    "eac.js-lib": "^2.4.6",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
+    "moment": "^2.22.2",
     "popper.js": "^1.14.3",
-    "tether": "^1.4.4"
+    "tether": "^1.4.4",
+    "web3": "^0.20.7"
   },
   "browserslist": [
     "defaults",
